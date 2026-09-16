@@ -1,4 +1,4 @@
-# DescubreX Playbook IA
+# Playbook IA
 
 Manual para el aprendizaje práctico con IA, ChatGPT, Codex y GitHub al crear proyectos: sitios web, aplicaciones móviles, juegos, automatizaciones, herramientas o cualquier idea que tengas en mente.
 
