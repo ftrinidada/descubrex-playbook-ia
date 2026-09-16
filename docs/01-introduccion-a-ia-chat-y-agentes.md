@@ -20,7 +20,7 @@ La palabra importante es **borrador**. El resultado puede ser útil como punto d
 
 Al comenzar a usar IA aparecen muchas palabras nuevas. No necesitas aprenderlas todas de memoria. Esta es una lista de los conceptos que verás con más frecuencia y que te ayudarán a entender qué estás haciendo cuando hablas con una IA.
 
-### Modelo
+### 1. Modelo
 
 Un **modelo** es el sistema de IA que recibe lo que escribes y genera una respuesta. Piensa en él como el motor que está detrás del chat. Algunos modelos son mejores para conversar o escribir; otros entienden imágenes, ayudan con programación o resuelven problemas más complejos. Por eso una misma pregunta puede recibir respuestas distintas según el modelo elegido.
 
@@ -32,7 +32,7 @@ No siempre necesitas escoger un modelo. Cuando sí puedas hacerlo, elige según 
 
 Otras compañías también tienen sus propias familias de modelos. Por ejemplo, **Claude** es el nombre de una familia de modelos de Anthropic. Los nombres pueden sonar técnicos, pero la idea es sencilla: elige uno más rápido para una petición breve y uno con más capacidad para un problema complejo. No necesitas conocerlos todos para empezar.
 
-### Prompt o instrucción
+### 2. Prompt o instrucción
 
 Un **prompt** es lo que le dices o escribes a la IA para pedirle algo. Puede ser una pregunta sencilla, como «Explícame qué es una página web», o una instrucción detallada, como «Escribe el texto de inicio para una cafetería; usa un tono cercano, no inventes precios y entrégalo en tres párrafos».
 
@@ -42,7 +42,7 @@ El prompt no es una fórmula mágica. Es una explicación clara de lo que necesi
 > **Ejemplo — Prompt**
 > «Dame ideas para un negocio» es un prompt muy abierto. «Dame cinco ideas de nombres para una cafetería mexicana, con un tono cálido y familiar» da a la IA una dirección mucho más clara.
 
-### Respuesta o resultado
+### 3. Respuesta o resultado
 
 La **respuesta** es lo que la IA te devuelve: texto, código, una imagen, una tabla, un plan o una explicación. Es un borrador o una propuesta, no una verdad automática. Léela, comprueba lo importante y pide cambios si algo no cumple tu objetivo.
 
@@ -50,7 +50,7 @@ La **respuesta** es lo que la IA te devuelve: texto, código, una imagen, una ta
 > **Ejemplo — Revisar una respuesta**
 > Si pides un menú para tu cafetería y la respuesta incluye un precio que no existe, no lo publiques. Corrige ese dato y pide una nueva versión con los precios confirmados.
 
-### Contexto
+### 4. Contexto
 
 El **contexto** es la información que la IA puede usar para responder: tu prompt, los mensajes anteriores, los archivos que adjuntaste, las instrucciones del proyecto y, si le diste permiso, los resultados de herramientas o fuentes externas. Es como el material que entregas a alguien antes de pedirle una tarea.
 
@@ -67,7 +67,7 @@ No agregues pagos ni pedidos en línea todavía.
 Necesito que revises que se vea bien en un teléfono.
 ```
 
-### Tokens
+### 5. Tokens
 
 Los **tokens** son las piezas pequeñas en las que el modelo divide el texto para poder procesarlo. No son exactamente palabras: una palabra puede ocupar uno o varios tokens. Tu mensaje, los archivos que adjuntas, el historial de la conversación, los resultados de herramientas y la respuesta de la IA consumen tokens.
 
@@ -82,7 +82,7 @@ Hay dos límites distintos que conviene conocer:
 
 Puedes revisar el uso disponible en el panel de tu cuenta. Los límites y las opciones cambian según el plan, el modelo y el tipo de tarea. [OpenAI Docs: uso, tokens y límites](https://learn.chatgpt.com/docs/pricing)
 
-### Chat o conversación
+### 6. Chat o conversación
 
 Un **chat** es el espacio donde conversas con la IA. Cada mensaje que envías y cada respuesta que recibes construyen una conversación. Es útil para aprender, hacer preguntas, mejorar un texto o explorar una idea. Un chat no es una carpeta de archivos ni una memoria perfecta: guarda fuera del chat las decisiones que no quieras perder.
 
@@ -90,15 +90,15 @@ Un **chat** es el espacio donde conversas con la IA. Cada mensaje que envías y 
 > **Ejemplo — Chat**
 > Abre un chat para preguntar «¿Cómo funciona una página web?» y otro diferente para crear el contenido de tu negocio. Separarlos hará más fácil encontrar cada conversación después.
 
-### Proyecto o espacio de trabajo
+### 7. Proyecto o espacio de trabajo
 
-Un **proyecto** o espacio de trabajo agrupa conversaciones, archivos e instrucciones sobre un mismo tema. Por ejemplo, puedes crear uno para una página web, un juego o una aplicación móvil. Ayuda a mantener el orden y evita repetir el mismo contexto en cada conversación, pero sigue siendo buena idea tener una nota corta con las decisiones importantes.
+Un **proyecto** o espacio de trabajo es como una carpeta grande dedicada a una sola idea. Dentro reúnes las conversaciones, los archivos y las instrucciones que pertenecen a ese trabajo. Por ejemplo, puedes crear un proyecto para una página web, un juego o una aplicación móvil. Así, cuando vuelvas a trabajar mañana, no tienes que empezar explicando todo desde cero.
 
 > [!TIP]
 > **Ejemplo — Proyecto**
-> En un proyecto llamado «Juego de laberinto» puedes reunir el dibujo de los niveles, las reglas del juego, las conversaciones sobre sonidos y la lista de tareas pendientes.
+> Imagina una carpeta llamada «Juego de laberinto». Dentro guardas un archivo con las reglas del juego, una imagen sencilla de cómo quieres que sea el primer nivel y una lista de tareas pendientes. También abres varios chats dentro de ese mismo proyecto: uno para decidir los personajes, otro para crear los sonidos y otro para pedir a Codex que programe el movimiento del jugador. Todo sigue siendo parte del mismo juego y queda reunido en un solo lugar. El proyecto no crea el juego por sí solo: te ayuda a no perder archivos, decisiones ni conversaciones importantes.
 
-### Archivos y datos de entrada
+### 8. Archivos y datos de entrada
 
 Los **archivos** o **datos de entrada** son materiales que entregas a la IA para que trabaje mejor: una imagen, una hoja de cálculo, un documento, un fragmento de código o una lista de requisitos. Antes de adjuntarlos, comprueba que no contengan contraseñas, datos personales innecesarios o información que no tengas permiso de compartir.
 
@@ -106,7 +106,7 @@ Los **archivos** o **datos de entrada** son materiales que entregas a la IA para
 > **Ejemplo — Archivos**
 > Si quieres que la IA mejore un texto, adjunta el documento o pega solo el párrafo relevante; no necesitas compartir toda tu carpeta personal.
 
-### Multimodal
+### 9. Multimodal
 
 **Multimodal** significa que la IA puede trabajar con más de un tipo de información. Además de texto, puede entender o generar imágenes, audio, video, documentos o código, según las capacidades disponibles. Por ejemplo, podrías adjuntar una foto de un boceto y pedir una descripción para una página web; aun así, debes revisar que la interpretación sea correcta.
 
@@ -114,13 +114,17 @@ Los **archivos** o **datos de entrada** son materiales que entregas a la IA para
 > **Ejemplo — Imagen y texto**
 > Toma una foto de un menú escrito a mano y pide una versión ordenada en texto. Después compara el resultado con la foto para confirmar que no cambió nombres, precios ni ingredientes.
 
-### Herramientas y conexiones
+### 10. Herramientas y conexiones
 
-Normalmente, una IA puede leer tu instrucción y escribir una respuesta. Una **herramienta** le permite hacer algo adicional dentro de un entorno controlado: buscar información en la web, leer un archivo que autorizaste, ejecutar una prueba, generar una imagen, calcular datos o revisar código. La herramienta tiene una función concreta; la IA decide cuándo usarla solo si está disponible y permitida.
+Normalmente, una IA puede leer tu instrucción y escribir una respuesta. Una **herramienta** le da una capacidad adicional para realizar una tarea concreta. Piensa en el chat como una persona sentada frente a un escritorio: puede hablar contigo sin herramientas; si le das una calculadora, un buscador, un lector de PDF o acceso para ejecutar una prueba, ya puede hacer más que conversar.
 
-Una **conexión** es el acceso controlado a otro servicio o fuente de información. Por ejemplo, una conexión puede permitir que la IA consulte un repositorio de GitHub, una carpeta de documentos, un calendario o una lista de tareas. La conexión no debería dar acceso a todo por defecto: debe respetar la cuenta con la que iniciaste sesión y los permisos que concediste en ese servicio.
+«Dentro de un entorno controlado» significa que la herramienta no debería darle libertad total sobre Internet, tu computadora o tus cuentas. Solo puede usar la función que tiene habilitada y dentro de los permisos que tú aceptaste. Por ejemplo, una herramienta de búsqueda puede consultar páginas web; no puede borrar archivos de tu computadora. Una herramienta que ejecuta pruebas de código puede revisar un proyecto autorizado; no debería publicar una aplicación por sí sola.
 
-La diferencia es sencilla: una herramienta es la acción que la IA puede realizar; una conexión es la puerta que le permite usar información o acciones de otro sistema. A menudo trabajan juntas. Por ejemplo, la conexión da acceso a un repositorio y la herramienta permite buscar archivos dentro de él o ejecutar sus pruebas.
+**Deep Research** es un ejemplo de herramienta o modo de trabajo que usa herramientas. En lugar de darte una respuesta inmediata basada solo en la conversación, puede buscar varias fuentes, leerlas, compararlas y preparar un reporte con enlaces para que tú revises de dónde salió la información. Es útil para una pregunta que requiere investigar, como «Compara tres plataformas para vender boletos y cita las fuentes oficiales». No sustituye verificar las fuentes ni tomar la decisión final. Su disponibilidad puede cambiar según tu plan y la aplicación que uses.
+
+Una **conexión** es diferente: es la puerta controlada hacia otro servicio o fuente de información. Por ejemplo, una conexión puede permitir que la IA consulte un repositorio de GitHub, una carpeta de documentos, un calendario o una lista de tareas. La conexión no debería dar acceso a todo por defecto: debe respetar la cuenta con la que iniciaste sesión y los permisos que concediste en ese servicio.
+
+La diferencia puede resumirse así: una **herramienta** es lo que la IA puede hacer; una **conexión** es dónde puede buscar o trabajar. A menudo trabajan juntas. Por ejemplo, conectas un repositorio de GitHub para que la IA pueda ver sus archivos; después, una herramienta puede buscar una palabra dentro de ellos o ejecutar las pruebas autorizadas.
 
 Estas capacidades pueden ahorrar mucho tiempo, pero también aumentan la responsabilidad. Antes de activarlas, pregúntate: «¿Qué datos podrá ver?», «¿Podrá cambiar algo?», «¿Necesita este acceso para completar la tarea?» y «¿Qué debe pasar antes de enviar, publicar o borrar algo?». Empieza con acceso de solo lectura siempre que sea posible.
 
@@ -129,16 +133,20 @@ Estas capacidades pueden ahorrar mucho tiempo, pero también aumentan la respons
 > Pides: «Busca en la documentación oficial cómo instalar esta biblioteca y resume los pasos. No modifiques archivos». La IA puede usar una herramienta de búsqueda para encontrar la fuente y entregarte un resumen. Tú decides si los pasos se aplican al proyecto.
 
 > [!TIP]
-> **Ejemplo 2 — Revisar un repositorio**
+> **Ejemplo 2 — Usar Deep Research**
+> Quieres elegir una herramienta para enviar correos de tu negocio. Pides: «Investiga tres opciones, compara precio, idioma y posibilidad de exportar contactos. Usa sus páginas oficiales, incluye los enlaces y no contrates nada». Deep Research puede reunir y comparar la información. Tú abres las fuentes, compruebas que sigan vigentes y eliges la opción.
+
+> [!TIP]
+> **Ejemplo 3 — Revisar un repositorio**
 > Con una conexión a GitHub, puedes pedir: «Revisa los archivos de este repositorio y dime qué enlaces están rotos. Trabaja en modo lectura y no abras un pull request». La IA puede leer los archivos autorizados y devolver una lista de hallazgos, pero no debe cambiar ni publicar nada.
 
 > [!TIP]
-> **Ejemplo 3 — Preparar, pero no enviar**
+> **Ejemplo 4 — Preparar, pero no enviar**
 > Si una conexión tiene acceso a un calendario o correo, puedes pedir: «Prepara un borrador de invitación para esta reunión usando los datos del calendario; no envíes nada». El resultado debe quedarse como borrador para que tú lo revises antes de compartirlo.
 
 Una regla fácil de recordar es esta: permite a la IA **leer** para investigar, **preparar** para ayudarte y **actuar** solo cuando hayas revisado qué hará y estés listo para aprobarlo. Los permisos y las conexiones se explican con más detalle en el capítulo sobre ChatGPT, Codex, skills, plugins y conexiones.
 
-### Permisos y aprobación
+### 11. Permisos y aprobación
 
 Los **permisos** indican qué puede hacer la IA: quizá solo pueda leer archivos, quizá pueda editar archivos locales o quizá pueda preparar un borrador de correo. La **aprobación** es tu confirmación antes de una acción importante, como enviar, publicar, borrar, cobrar o modificar datos externos. Un permiso limitado protege tu trabajo mientras aprendes.
 
@@ -146,7 +154,7 @@ Los **permisos** indican qué puede hacer la IA: quizá solo pueda leer archivos
 > **Ejemplo — Permisos**
 > Puedes permitir que la IA lea tu código y sugiera una corrección, pero pedirle que se detenga antes de borrar archivos, enviar un correo o subir cambios a Internet.
 
-### Iteración
+### 12. Iteración
 
 Una **iteración** es una vuelta de mejora. Pides un primer resultado, lo revisas, señalas lo que falta y pides una nueva versión. Trabajar así es normal: la primera respuesta rara vez es la versión final. Una buena iteración tiene un comentario concreto, por ejemplo: «La explicación es correcta, pero usa ejemplos más cotidianos y elimina palabras técnicas».
 
@@ -154,7 +162,7 @@ Una **iteración** es una vuelta de mejora. Pides un primer resultado, lo revisa
 > **Ejemplo — Iteración**
 > Primero pides el texto para la portada; luego dices «Hazlo más corto y menciona el horario», y finalmente corriges el horario con el dato real. Cada mejora es una iteración.
 
-### Alucinación o información inventada
+### 13. Alucinación o información inventada
 
 Una **alucinación** es una respuesta que parece creíble, pero contiene información incorrecta o inventada. Puede ser una fecha, una fuente, un precio, una explicación o código que parece funcionar sin hacerlo. No es una mentira intencional: es una limitación de la tecnología. Verifica los datos importantes antes de tomar una decisión.
 
@@ -162,7 +170,7 @@ Una **alucinación** es una respuesta que parece creíble, pero contiene informa
 > **Ejemplo — Información inventada**
 > La IA puede recomendar un restaurante que ya cerró o citar un artículo que no existe. Antes de confiar en esa información, abre la fuente o comprueba el dato en un sitio confiable.
 
-### Agente
+### 14. Agente
 
 Un **agente** es una IA que, además de responder, puede avanzar por varios pasos con un objetivo, instrucciones y herramientas autorizadas. Por ejemplo, puede revisar archivos, preparar un plan y ejecutar una prueba. Como puede tener más capacidad de acción que un chat normal, necesita límites claros y revisión humana. Lo veremos con detalle en el punto 7.
 
