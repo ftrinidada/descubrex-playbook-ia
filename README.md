@@ -1,17 +1,17 @@
 # DescubreX Playbook IA
 
-Manual el aprendizaje práctico con IA, ChatGPT, Codex y GitHub al crear proyectos: sitios web, aplicaciones móviles, juegos, automatizaciones y herramientas.
+Manual para el aprendizaje práctico con IA, ChatGPT, Codex y GitHub al crear proyectos: sitios web, aplicaciones móviles, juegos, automatizaciones, herramientas o cualquier idea que tengas en mente.
 
 > Este repositorio es una guía educativa. No contiene código privado, llaves, tokens, certificados, perfiles de firma ni datos personales.
 
 ## Objetivo
 
-Convertir lo aprendido al idear, construir, probar, publicar y mantener proyectos digitales en un manual claro que otra persona con bases de programación pueda leer, revisar y mejorar. El formato fuente es Markdown en GitHub: es fácil de editar, mantiene historial y permite comentar cambios.
+Inspirar a cualquier persona a descubrir el poder de la inteligencia artificial, aprender con curiosidad y transformar una simple idea en algo útil, creativo y real que pueda compartir con el mundo.
 
 ## Ruta de aprendizaje
 
-- [x] [Instalar ChatGPT](docs/00-instalar-chatgpt.md): abrirlo desde la web o instalar la aplicación de escritorio.
 - [x] [Introducción a IA, modelos, chat, contexto, prompts, límites, agentes y Work](docs/01-introduccion-a-ia-chat-y-agentes.md).
+- [x] [Instalar ChatGPT](docs/00-instalar-chatgpt.md): abrirlo desde la web o instalar la aplicación de escritorio.
 - [x] [Diseñar y construir proyectos](docs/02-disenar-y-construir-proyectos.md): pasar de una idea a una primera versión comprobable.
 - [x] [ChatGPT, Codex, skills, plugins y conexiones](docs/03-chatgpt-codex-skills-plugins-y-conexiones.md): elegir capacidades, otorgar permisos y reutilizar flujos de trabajo.
 - [ ] Git y GitHub: repositorios, ramas, commits, tags, issues y pull requests.
