@@ -1,6 +1,6 @@
-# DescubreX Playbook
+# DescubreX Playbook IA
 
-Manual vivo en español para documentar el aprendizaje práctico con IA, ChatGPT, Codex y GitHub al crear proyectos: sitios web, aplicaciones móviles, juegos, automatizaciones y herramientas.
+Manual el aprendizaje práctico con IA, ChatGPT, Codex y GitHub al crear proyectos: sitios web, aplicaciones móviles, juegos, automatizaciones y herramientas.
 
 > Este repositorio es una guía educativa. No contiene código privado, llaves, tokens, certificados, perfiles de firma ni datos personales.
 
@@ -10,10 +10,10 @@ Convertir lo aprendido al idear, construir, probar, publicar y mantener proyecto
 
 ## Ruta de aprendizaje
 
-- [x] [Obtener este manual](docs/00-obtener-el-manual.md): leerlo en GitHub o descargarlo desde web, macOS y Windows.
+- [x] [Instalar ChatGPT](docs/00-instalar-chatgpt.md): abrirlo desde la web o instalar la aplicación de escritorio.
 - [x] [Introducción a IA, modelos, chat, contexto, prompts, límites, agentes y Work](docs/01-introduccion-a-ia-chat-y-agentes.md).
-- [ ] Diseñar y construir proyectos: sitios web, apps, juegos, automatizaciones y herramientas.
-- [ ] ChatGPT, Codex, skills, plugins y conexiones: elegir el modo y las herramientas adecuadas.
+- [x] [Diseñar y construir proyectos](docs/02-disenar-y-construir-proyectos.md): pasar de una idea a una primera versión comprobable.
+- [x] [ChatGPT, Codex, skills, plugins y conexiones](docs/03-chatgpt-codex-skills-plugins-y-conexiones.md): elegir capacidades, otorgar permisos y reutilizar flujos de trabajo.
 - [ ] Git y GitHub: repositorios, ramas, commits, tags, issues y pull requests.
 - [ ] Seguridad: secretos, API keys, autenticacion, permisos, dependencias y escaneos.
 - [ ] Calidad y automatización: pruebas, integración continua y despliegues.
@@ -42,4 +42,4 @@ Convertir lo aprendido al idear, construir, probar, publicar y mantener proyecto
 
 ## Estado
 
-Creado el 16 de septiembre de 2026. Los dos primeros capítulos ya cubren cómo obtener el manual y cómo trabajar con IA de forma consciente. El siguiente paso es documentar el ciclo completo de un proyecto —sitio, app, juego o automatización— y después los pipelines Android/iOS de forma segura.
+Creado el 16 de septiembre de 2026. Los primeros cuatro capítulos cubren cómo instalar ChatGPT, trabajar con IA de forma consciente, convertir una idea en una primera versión comprobable y elegir capacidades de ChatGPT y Codex con permisos limitados. El siguiente paso es documentar Git y GitHub; después vendrán seguridad, calidad, automatización y los pipelines Android/iOS de forma segura.
