@@ -14,7 +14,7 @@ Funciona como una persona que te ayuda a crear un borrador muy rápido. Si le pi
 
 Puedes usar la IA generativa para muchas cosas cotidianas: proponer el texto de una página para una cafetería, resumir tus apuntes, convertir una lista de ideas en un plan, explicar un error de programación con palabras sencillas, crear una imagen de referencia o generar opciones para el nombre de un proyecto. También puede ayudarte a revisar y mejorar un trabajo que ya empezaste.
 
-La palabra importante es **borrador**. El resultado puede ser útil como punto de partida, pero no es automáticamente correcto, original, completo ni apropiado para publicar. Léelo, comprueba los datos, ajusta el tono y asegúrate de que representa tu intención. Tú aportas la idea, el criterio y la decisión final; la IA generativa te ayuda a avanzar más rápido.
+La IA te entrega una **primera propuesta**, no un trabajo terminado. Puede ayudarte a empezar más rápido, pero tú debes revisarla antes de usarla. Comprueba que los datos sean correctos, cambia lo que no te guste y decide si está lista para publicar. La idea y la decisión final siempre son tuyas; la IA solo te ayuda a avanzar.
 
 ## 2. Conceptos esenciales para empezar
 
