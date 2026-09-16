@@ -12,6 +12,7 @@ Inspirar a cualquier persona a descubrir el poder de la inteligencia artificial,
 
 - [x] [Introducción a IA, modelos, chat, contexto, prompts, límites, agentes y Work](docs/01-introduccion-a-ia-chat-y-agentes.md).
 - [x] [Instalar ChatGPT](docs/00-instalar-chatgpt.md): abrirlo desde la web o instalar la aplicación de escritorio.
+- [x] [Asistentes de IA que puedes explorar](docs/01-introduccion-a-ia-chat-y-agentes.md#2-asistentes-de-ia-que-puedes-explorar): conocer ChatGPT, Claude, Gemini, Copilot y otras opciones con sus páginas oficiales.
 - [x] [Diseñar y construir proyectos](docs/02-disenar-y-construir-proyectos.md): pasar de una idea a una primera versión comprobable.
 - [x] [ChatGPT, Codex, skills, plugins y conexiones](docs/03-chatgpt-codex-skills-plugins-y-conexiones.md): elegir capacidades, otorgar permisos y reutilizar flujos de trabajo.
 - [ ] Git y GitHub: repositorios, ramas, commits, tags, issues y pull requests.

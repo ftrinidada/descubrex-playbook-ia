@@ -49,7 +49,7 @@ Un **modelo** es el sistema de IA que recibe lo que escribes y genera una respue
 
 No siempre necesitas escoger un modelo. Cuando sí puedas hacerlo, elige según la tarea: uno rápido suele bastar para una pregunta breve o una lluvia de ideas; una tarea difícil, como analizar muchos archivos o revisar una aplicación, puede necesitar uno con mayor capacidad. Lo importante es revisar el resultado, sin importar el modelo usado.
 
-> [!NOTE]
+> [!TIP]
 > **Ejemplo — Modelo**
 > En Codex puedes encontrar modelos con nombres como **GPT-6 Astra**, **GPT-5.6 Sol**, **GPT-5.6 Terra** y **GPT-5.6 Luna**. Son modelos de la misma familia, pero están pensados para necesidades distintas: Sol se orienta a problemas complejos, Terra al trabajo cotidiano de producción y Luna a tareas rápidas o de gran volumen. Astra es otra opción disponible para algunas tareas y planes. La disponibilidad cambia según tu plan y la aplicación que uses.
 
@@ -61,7 +61,7 @@ Un **prompt** es lo que le dices o escribes a la IA para pedirle algo. Puede ser
 
 El prompt no es una fórmula mágica. Es una explicación clara de lo que necesitas. Cuanto mejor describas el objetivo, el público, los datos disponibles y el resultado esperado, más fácil será que la IA te ayude. El punto 5 muestra cómo escribirlos paso a paso.
 
-> [!NOTE]
+> [!TIP]
 > **Ejemplo — Prompt**
 > «Dame ideas para un negocio» es un prompt muy abierto. «Dame cinco ideas de nombres para una cafetería mexicana, con un tono cálido y familiar» da a la IA una dirección mucho más clara.
 
@@ -69,7 +69,7 @@ El prompt no es una fórmula mágica. Es una explicación clara de lo que necesi
 
 La **respuesta** es lo que la IA te devuelve: texto, código, una imagen, una tabla, un plan o una explicación. Es un borrador o una propuesta, no una verdad automática. Léela, comprueba lo importante y pide cambios si algo no cumple tu objetivo.
 
-> [!NOTE]
+> [!TIP]
 > **Ejemplo — Revisar una respuesta**
 > Si pides un menú para tu cafetería y la respuesta incluye un precio que no existe, no lo publiques. Corrige ese dato y pide una nueva versión con los precios confirmados.
 
@@ -79,7 +79,7 @@ El **contexto** es la información que la IA puede usar para responder: tu promp
 
 Si le das el horario correcto de un negocio y explicas que no debe inventar datos, podrá ayudarte mejor. Si le faltan datos, puede hacer suposiciones. Por eso, al retomar un trabajo largo, repite lo esencial: qué quieres lograr, qué ya está decidido y qué no se debe cambiar.
 
-> [!NOTE]
+> [!TIP]
 > **Ejemplo — Contexto**
 > Este mensaje da a la IA el contexto necesario antes de pedirle una mejora:
 
@@ -99,7 +99,7 @@ Hay dos límites distintos que conviene conocer:
 1. **Límite de contexto:** es la cantidad de información que la IA puede tener presente en una conversación al mismo tiempo. Si la conversación es muy larga o adjuntas muchos archivos, algunos detalles antiguos pueden perder importancia o dejar de estar disponibles. Cuando ocurra, resume las decisiones principales o vuelve a adjuntar el archivo importante.
 2. **Límite de uso de tu plan:** es la cantidad de trabajo que tu cuenta puede usar durante un periodo. Las tareas grandes, los archivos extensos, las respuestas largas, el uso de herramientas y los modelos más capaces suelen consumir más de ese límite que una pregunta breve.
 
-> [!NOTE]
+> [!TIP]
 > **Ejemplo — Uso de tokens**
 > Preguntar «Dame tres nombres para una cafetería» usa poco. En cambio, adjuntar un documento de 200 páginas, pedir que la IA lo analice, consulte fuentes y cree una presentación puede usar mucho más. Si alcanzas el límite de tu plan, la aplicación te indicará cuándo podrás continuar. Según tu plan y las opciones disponibles, puedes esperar a que se renueve el límite, elegir un modelo más pequeño, reducir el tamaño de la tarea o usar créditos adicionales. No es necesario cambiar de plan de inmediato.
 
@@ -109,7 +109,7 @@ Puedes revisar el uso disponible en el panel de tu cuenta. Los límites y las op
 
 Un **chat** es el espacio donde conversas con la IA. Cada mensaje que envías y cada respuesta que recibes construyen una conversación. Es útil para aprender, hacer preguntas, mejorar un texto o explorar una idea. Un chat no es una carpeta de archivos ni una memoria perfecta: guarda fuera del chat las decisiones que no quieras perder.
 
-> [!NOTE]
+> [!TIP]
 > **Ejemplo — Chat**
 > Abre un chat para preguntar «¿Cómo funciona una página web?» y otro diferente para crear el contenido de tu negocio. Separarlos hará más fácil encontrar cada conversación después.
 
@@ -117,7 +117,7 @@ Un **chat** es el espacio donde conversas con la IA. Cada mensaje que envías y 
 
 Un **proyecto** o espacio de trabajo agrupa conversaciones, archivos e instrucciones sobre un mismo tema. Por ejemplo, puedes crear uno para una página web, un juego o una aplicación móvil. Ayuda a mantener el orden y evita repetir el mismo contexto en cada conversación, pero sigue siendo buena idea tener una nota corta con las decisiones importantes.
 
-> [!NOTE]
+> [!TIP]
 > **Ejemplo — Proyecto**
 > En un proyecto llamado «Juego de laberinto» puedes reunir el dibujo de los niveles, las reglas del juego, las conversaciones sobre sonidos y la lista de tareas pendientes.
 
@@ -125,7 +125,7 @@ Un **proyecto** o espacio de trabajo agrupa conversaciones, archivos e instrucci
 
 Los **archivos** o **datos de entrada** son materiales que entregas a la IA para que trabaje mejor: una imagen, una hoja de cálculo, un documento, un fragmento de código o una lista de requisitos. Antes de adjuntarlos, comprueba que no contengan contraseñas, datos personales innecesarios o información que no tengas permiso de compartir.
 
-> [!NOTE]
+> [!TIP]
 > **Ejemplo — Archivos**
 > Si quieres que la IA mejore un texto, adjunta el documento o pega solo el párrafo relevante; no necesitas compartir toda tu carpeta personal.
 
@@ -133,7 +133,7 @@ Los **archivos** o **datos de entrada** son materiales que entregas a la IA para
 
 **Multimodal** significa que la IA puede trabajar con más de un tipo de información. Además de texto, puede entender o generar imágenes, audio, video, documentos o código, según las capacidades disponibles. Por ejemplo, podrías adjuntar una foto de un boceto y pedir una descripción para una página web; aun así, debes revisar que la interpretación sea correcta.
 
-> [!NOTE]
+> [!TIP]
 > **Ejemplo — Imagen y texto**
 > Toma una foto de un menú escrito a mano y pide una versión ordenada en texto. Después compara el resultado con la foto para confirmar que no cambió nombres, precios ni ingredientes.
 
@@ -147,15 +147,15 @@ La diferencia es sencilla: una herramienta es la acción que la IA puede realiza
 
 Estas capacidades pueden ahorrar mucho tiempo, pero también aumentan la responsabilidad. Antes de activarlas, pregúntate: «¿Qué datos podrá ver?», «¿Podrá cambiar algo?», «¿Necesita este acceso para completar la tarea?» y «¿Qué debe pasar antes de enviar, publicar o borrar algo?». Empieza con acceso de solo lectura siempre que sea posible.
 
-> [!NOTE]
+> [!TIP]
 > **Ejemplo 1 — Investigar sin cambiar nada**
 > Pides: «Busca en la documentación oficial cómo instalar esta biblioteca y resume los pasos. No modifiques archivos». La IA puede usar una herramienta de búsqueda para encontrar la fuente y entregarte un resumen. Tú decides si los pasos se aplican al proyecto.
 
-> [!NOTE]
+> [!TIP]
 > **Ejemplo 2 — Revisar un repositorio**
 > Con una conexión a GitHub, puedes pedir: «Revisa los archivos de este repositorio y dime qué enlaces están rotos. Trabaja en modo lectura y no abras un pull request». La IA puede leer los archivos autorizados y devolver una lista de hallazgos, pero no debe cambiar ni publicar nada.
 
-> [!NOTE]
+> [!TIP]
 > **Ejemplo 3 — Preparar, pero no enviar**
 > Si una conexión tiene acceso a un calendario o correo, puedes pedir: «Prepara un borrador de invitación para esta reunión usando los datos del calendario; no envíes nada». El resultado debe quedarse como borrador para que tú lo revises antes de compartirlo.
 
@@ -165,7 +165,7 @@ Una regla fácil de recordar es esta: permite a la IA **leer** para investigar, 
 
 Los **permisos** indican qué puede hacer la IA: quizá solo pueda leer archivos, quizá pueda editar archivos locales o quizá pueda preparar un borrador de correo. La **aprobación** es tu confirmación antes de una acción importante, como enviar, publicar, borrar, cobrar o modificar datos externos. Un permiso limitado protege tu trabajo mientras aprendes.
 
-> [!NOTE]
+> [!TIP]
 > **Ejemplo — Permisos**
 > Puedes permitir que la IA lea tu código y sugiera una corrección, pero pedirle que se detenga antes de borrar archivos, enviar un correo o subir cambios a Internet.
 
@@ -173,7 +173,7 @@ Los **permisos** indican qué puede hacer la IA: quizá solo pueda leer archivos
 
 Una **iteración** es una vuelta de mejora. Pides un primer resultado, lo revisas, señalas lo que falta y pides una nueva versión. Trabajar así es normal: la primera respuesta rara vez es la versión final. Una buena iteración tiene un comentario concreto, por ejemplo: «La explicación es correcta, pero usa ejemplos más cotidianos y elimina palabras técnicas».
 
-> [!NOTE]
+> [!TIP]
 > **Ejemplo — Iteración**
 > Primero pides el texto para la portada; luego dices «Hazlo más corto y menciona el horario», y finalmente corriges el horario con el dato real. Cada mejora es una iteración.
 
@@ -181,7 +181,7 @@ Una **iteración** es una vuelta de mejora. Pides un primer resultado, lo revisa
 
 Una **alucinación** es una respuesta que parece creíble, pero contiene información incorrecta o inventada. Puede ser una fecha, una fuente, un precio, una explicación o código que parece funcionar sin hacerlo. No es una mentira intencional: es una limitación de la tecnología. Verifica los datos importantes antes de tomar una decisión.
 
-> [!NOTE]
+> [!TIP]
 > **Ejemplo — Información inventada**
 > La IA puede recomendar un restaurante que ya cerró o citar un artículo que no existe. Antes de confiar en esa información, abre la fuente o comprueba el dato en un sitio confiable.
 
@@ -189,7 +189,7 @@ Una **alucinación** es una respuesta que parece creíble, pero contiene informa
 
 Un **agente** es una IA que, además de responder, puede avanzar por varios pasos con un objetivo, instrucciones y herramientas autorizadas. Por ejemplo, puede revisar archivos, preparar un plan y ejecutar una prueba. Como puede tener más capacidad de acción que un chat normal, necesita límites claros y revisión humana. Lo veremos con detalle en el punto 8.
 
-> [!NOTE]
+> [!TIP]
 > **Ejemplo — Agente**
 > Un agente puede revisar todos los archivos de una página web y entregarte una lista de enlaces rotos. Debe limitarse a reportarlos hasta que tú autorices cualquier corrección.
 
@@ -201,13 +201,13 @@ Para entender esta parte, imagina que trabajas con una persona que te ayuda dura
 
 Un **chat** es una conversación individual con la IA. Es como abrir un cuaderno para hablar de un solo tema. Puedes usarlo para hacer preguntas, pedir una explicación, ordenar ideas, mejorar un texto o resolver una tarea pequeña. Dentro de ese chat, la IA puede tener en cuenta los mensajes anteriores y los archivos que agregaste allí.
 
-> [!NOTE]
+> [!TIP]
 > **Ejemplo — Separar chats**
 > Abre un chat llamado mentalmente «Ideas para mi cafetería» y pide nombres, colores y textos para una página web. Si después quieres aprender a programar un juego, abre otro chat. Separar los temas evita mezclar instrucciones y hace más fácil volver a encontrar lo que hiciste.
 
 Un **proyecto** o espacio de trabajo es como una carpeta grande para un objetivo que llevará varios días o semanas. Puede reunir varios chats, archivos, imágenes, instrucciones y notas que pertenecen al mismo trabajo. No es necesario usar un proyecto para una pregunta rápida, pero ayuda mucho cuando estás creando algo más grande.
 
-> [!NOTE]
+> [!TIP]
 > **Ejemplo — Organizar un proyecto**
 > Crea un proyecto llamado «Página de la cafetería». Dentro puedes guardar el horario confirmado, el menú, las fotos autorizadas y varios chats: uno para escribir el texto, otro para diseñar la página y otro para revisar los enlaces. Así, cada chat puede usar la información del proyecto sin que tengas que copiarla una y otra vez.
 
@@ -291,7 +291,7 @@ Las funciones disponibles pueden cambiar según el plan, el dispositivo, la regi
 - Redactar o mejorar un texto corto.
 - Pedir que una idea confusa se convierta en una lista de pasos.
 
-> [!NOTE]
+> [!TIP]
 > **Ejemplo — Explorar una idea en Chat**
 > Tienes la idea de crear una página para una cafetería, pero no sabes qué debe incluir. En Chat puedes preguntar: «Quiero una página sencilla para una cafetería local. ¿Qué información necesita una persona antes de visitarla? Hazme preguntas si falta algo». La respuesta te ayuda a pensar; todavía no está construyendo la página.
 
@@ -313,11 +313,11 @@ Piensa en Work como encargar un proyecto pequeño a una persona colaboradora: ex
 - Convertir notas dispersas en un documento ordenado.
 - Dar seguimiento a una tarea que necesita varios pasos y un resultado final claro.
 
-> [!NOTE]
+> [!TIP]
 > **Ejemplo — Entregar un documento**
 > Tienes las notas de una reunión en Word, una lista de ventas en Excel y comentarios de clientes en un PDF. En Work podrías pedir: «Analiza estos tres archivos y prepara un reporte de una página con los problemas más repetidos, tres oportunidades y las fuentes usadas. Entrégalo como documento de Word o PDF si esa opción está disponible. No lo compartas». La IA puede organizar el material y prepararte un borrador; tú abres el archivo, compruebas los datos y decides si está listo.
 
-> [!NOTE]
+> [!TIP]
 > **Ejemplo — Preparar un correo**
 > Tienes un PDF con los acuerdos de una reunión. Puedes pedir: «Resume los acuerdos y prepara un correo para el equipo con los próximos pasos. Usa un tono amable; déjalo como borrador y no lo envíes». La IA puede redactar el correo, pero tú revisas nombres, fechas, destinatarios y el mensaje antes de enviarlo desde tu cuenta.
 
@@ -331,19 +331,19 @@ En algunas configuraciones, Work puede ejecutarse en la nube o, desde la aplicac
 
 Codex puede leer archivos del proyecto, entender cómo están relacionados, proponer cambios, editar código y ejecutar pruebas o comandos dentro de los permisos que tenga. También muestra detalles útiles para desarrollo, como los archivos modificados, diferencias entre versiones y resultados de pruebas.
 
-> [!NOTE]
+> [!TIP]
 > **Ejemplo — Sitio web**
 > Ya tienes una página web con HTML, CSS y JavaScript en un repositorio y quieres agregar un formulario de contacto. En Codex puedes pedir: «Añade un formulario de contacto en la página principal. Modifica solo los archivos de la interfaz; no agregues servicios externos ni publiques nada. Comprueba que el formulario muestre un mensaje claro cuando falte el correo y dime qué pruebas ejecutaste». Codex puede realizar el cambio, pero tú revisas el resultado antes de aceptarlo.
 
-> [!NOTE]
+> [!TIP]
 > **Ejemplo — Proyecto de Node.js**
 > Node.js es una forma popular de crear sitios web, servidores y herramientas con JavaScript. Si tu proyecto tiene un archivo llamado `package.json`, podrías pedir: «En este proyecto de Node.js, agrega una ruta que muestre una lista de productos de ejemplo. No agregues paquetes nuevos. Ejecuta las pruebas existentes y explícame qué archivos cambiaste». Codex puede leer el proyecto, modificar el código y ejecutar pruebas dentro de los permisos que autorices.
 
-> [!NOTE]
+> [!TIP]
 > **Ejemplo — Aplicación Swift para iPhone**
 > Swift es el lenguaje usado para muchas apps de Apple, y SwiftUI se usa para construir sus pantallas. Si tienes un proyecto abierto en Xcode, podrías pedir: «En esta app de SwiftUI, añade una pantalla de perfil con nombre, foto de ejemplo y botón de cerrar sesión. No cambies la configuración de publicación ni subas la app a App Store Connect. Compila el proyecto y dime si hubo errores». Así, Codex trabaja en los archivos de la app, mientras tú decides cuándo una versión está lista para compartir o publicar.
 
-> [!NOTE]
+> [!TIP]
 > **Ejemplo — Juego o herramienta**
 > También puedes usar Codex en un juego hecho con JavaScript, Unity, Godot u otra tecnología, o en una herramienta escrita en Python. Empieza con un cambio pequeño: «Añade una pantalla que muestre la puntuación actual; no modifiques los niveles ni publiques una versión». Un encargo pequeño es más fácil de revisar que «haz todo el juego».
 
@@ -394,7 +394,7 @@ Trátalo como a un colaborador con acceso limitado. Antes de usarlo, define este
 - Punto de alto: cuándo debe pedir aprobación.
 - Evidencia de cierre: pruebas, enlaces, lista de archivos o reporte de cambios.
 
-> [!NOTE]
+> [!TIP]
 > **Ejemplo 1 — Revisar un sitio web sin modificarlo**
 > Imagina que tienes una página para un negocio y quieres saber si funciona bien antes de compartirla. En lugar de decir «arregla mi página», puedes pedir que el agente primero revise y te entregue un diagnóstico:
 
@@ -408,7 +408,7 @@ Si para revisar algo necesitas abrir una página externa, avísame primero.
 
 Cuando recibas el reporte, léelo y elige qué cambios sí quieres hacer. Después puedes pedir otro paso: «Corrige únicamente los tres enlaces rotos que aprobamos y vuelve a comprobarlos». Separar revisión y cambio evita que la IA toque más de lo necesario.
 
-> [!NOTE]
+> [!TIP]
 > **Ejemplo 2 — Preparar un reporte de documentos**
 > Si tienes un Word con notas de una reunión y un PDF con comentarios de clientes, un agente puede ayudarte sin enviar nada por ti:
 
