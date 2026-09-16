@@ -16,30 +16,7 @@ Puedes usar la IA generativa para muchas cosas cotidianas: proponer el texto de 
 
 La palabra importante es **borrador**. El resultado puede ser útil como punto de partida, pero no es automáticamente correcto, original, completo ni apropiado para publicar. Léelo, comprueba los datos, ajusta el tono y asegúrate de que representa tu intención. Tú aportas la idea, el criterio y la decisión final; la IA generativa te ayuda a avanzar más rápido.
 
-## 2. Asistentes de IA que puedes explorar
-
-Hay muchas herramientas de IA. Algunas son mejores para conversar, otras para buscar información, trabajar con documentos o crear software. No necesitas instalar ni pagar todas para empezar: prueba una o dos, compáralas con una misma tarea sencilla y decide cuál se adapta mejor a tu forma de trabajar.
-
-Estas son ocho opciones conocidas. Los planes, idiomas, funciones y disponibilidad pueden cambiar con el tiempo, así que entra siempre desde su página oficial y revisa qué ofrece antes de compartir archivos o contratar algo.
-
-| Asistente | Para qué podrías usarlo al comenzar | Página oficial |
-| --- | --- | --- |
-| **ChatGPT** | Aprender, escribir, organizar ideas, trabajar con documentos y crear proyectos con Codex. | [Abrir ChatGPT](https://chatgpt.com/) |
-| **Claude** | Conversar, resumir y analizar documentos, investigar y pedir ayuda con código. | [Abrir Claude](https://claude.ai/) |
-| **Gemini** | Hacer preguntas, crear contenido y explorar tareas que se conectan con el ecosistema de Google cuando tú lo autorizas. | [Abrir Gemini](https://gemini.google.com/) |
-| **Microsoft Copilot** | Hacer preguntas y obtener ayuda dentro de herramientas y servicios de Microsoft, según la versión que uses. | [Abrir Microsoft Copilot](https://copilot.microsoft.com/) |
-| **Perplexity** | Investigar temas y consultar respuestas que muestran fuentes para que puedas abrirlas y verificarlas. | [Abrir Perplexity](https://www.perplexity.ai/) |
-| **Meta AI** | Conversar, pedir ideas y explorar funciones de IA dentro de productos de Meta, donde estén disponibles. | [Abrir Meta AI](https://www.meta.ai/) |
-| **Le Chat** | Conversar, escribir, resumir y explorar las herramientas de IA de Mistral. | [Abrir Le Chat](https://chat.mistral.ai/) |
-| **DeepSeek** | Conversar, explicar temas y explorar modelos y herramientas de DeepSeek. | [Abrir DeepSeek Chat](https://chat.deepseek.com/) |
-
-> [!TIP]
-> **Cómo elegir sin complicarte**
-> Elige una tarea pequeña y repítela en dos asistentes: por ejemplo, «Explícame cómo crear una página web para una cafetería con palabras sencillas». Revisa cuál entiende mejor tu pregunta, cuál te muestra fuentes cuando las necesitas y cuál te resulta más cómodo. Ninguna respuesta debe sustituir tu revisión.
-
-No confundas el nombre de una aplicación con el de un modelo. Por ejemplo, un asistente es el lugar donde conversas y trabajas; dentro puede ofrecer uno o varios modelos. En el siguiente punto aprenderás qué significa cada uno de esos conceptos.
-
-## 3. Conceptos esenciales para empezar
+## 2. Conceptos esenciales para empezar
 
 Al comenzar a usar IA aparecen muchas palabras nuevas. No necesitas aprenderlas todas de memoria. Esta es una lista de los conceptos que verás con más frecuencia y que te ayudarán a entender qué estás haciendo cuando hablas con una IA.
 
@@ -59,7 +36,7 @@ Otras compañías también tienen sus propias familias de modelos. Por ejemplo, 
 
 Un **prompt** es lo que le dices o escribes a la IA para pedirle algo. Puede ser una pregunta sencilla, como «Explícame qué es una página web», o una instrucción detallada, como «Escribe el texto de inicio para una cafetería; usa un tono cercano, no inventes precios y entrégalo en tres párrafos».
 
-El prompt no es una fórmula mágica. Es una explicación clara de lo que necesitas. Cuanto mejor describas el objetivo, el público, los datos disponibles y el resultado esperado, más fácil será que la IA te ayude. El punto 5 muestra cómo escribirlos paso a paso.
+El prompt no es una fórmula mágica. Es una explicación clara de lo que necesitas. Cuanto mejor describas el objetivo, el público, los datos disponibles y el resultado esperado, más fácil será que la IA te ayude. El punto 4 muestra cómo escribirlos paso a paso.
 
 > [!TIP]
 > **Ejemplo — Prompt**
@@ -187,7 +164,7 @@ Una **alucinación** es una respuesta que parece creíble, pero contiene informa
 
 ### Agente
 
-Un **agente** es una IA que, además de responder, puede avanzar por varios pasos con un objetivo, instrucciones y herramientas autorizadas. Por ejemplo, puede revisar archivos, preparar un plan y ejecutar una prueba. Como puede tener más capacidad de acción que un chat normal, necesita límites claros y revisión humana. Lo veremos con detalle en el punto 8.
+Un **agente** es una IA que, además de responder, puede avanzar por varios pasos con un objetivo, instrucciones y herramientas autorizadas. Por ejemplo, puede revisar archivos, preparar un plan y ejecutar una prueba. Como puede tener más capacidad de acción que un chat normal, necesita límites claros y revisión humana. Lo veremos con detalle en el punto 7.
 
 > [!TIP]
 > **Ejemplo — Agente**
@@ -195,7 +172,7 @@ Un **agente** es una IA que, además de responder, puede avanzar por varios paso
 
 La calidad de una respuesta depende principalmente del modelo, del contexto disponible, de qué tan clara sea tu instrucción y de los límites configurados, como tiempo, permisos y herramientas. Conocer estos términos te permite pedir mejor ayuda y mantener el control.
 
-## 4. Chat, proyectos y contexto persistente
+## 3. Chat, proyectos y contexto persistente
 
 Para entender esta parte, imagina que trabajas con una persona que te ayuda durante varias conversaciones. Necesitas un lugar para hablar de una pregunta concreta y otro lugar para guardar todo lo que pertenece a un proyecto. ChatGPT y herramientas similares suelen organizarse de una forma parecida.
 
@@ -227,7 +204,7 @@ Un proyecto ordenado ayuda, pero no reemplaza tu revisión. La IA no debe adivin
 
 La idea principal es sencilla: usa un **chat** para conversar sobre una tarea; usa un **proyecto** para reunir todo lo necesario para un objetivo mayor; y conserva las decisiones importantes en una nota clara para no depender de la memoria de la IA.
 
-## 5. Prompts que dan resultados revisables
+## 4. Prompts que dan resultados revisables
 
 Un **prompt** es lo que le pides a la IA. Puede ser una sola pregunta o una instrucción detallada. No necesitas usar palabras especiales: habla con claridad, como si le explicaras la tarea a una persona que acaba de incorporarse al proyecto.
 
@@ -252,7 +229,7 @@ Después de la primera respuesta, mejora paso a paso. Señala el problema observ
 
 También puedes pedir que la IA haga preguntas antes de actuar: «Si falta información importante, enumera tus dudas y no inventes la respuesta». Esto es especialmente útil cuando el resultado afectará dinero, personas, datos privados o una publicación pública.
 
-## 6. Límites que hay que entender
+## 5. Límites que hay que entender
 
 Los límites son las cosas que la IA no puede garantizar por sí sola. Conocerlos no significa que la IA sea mala o inútil; significa que sabes cuándo confiar en ella como ayuda y cuándo debes revisar con más cuidado.
 
@@ -265,7 +242,7 @@ Los límites son las cosas que la IA no puede garantizar por sí sola. Conocerlo
 
 Una regla fácil de recordar es: usa la IA para **pensar, crear y preparar**; usa tu criterio para **verificar, decidir y aprobar**.
 
-## 7. Chat, Work y Codex: cuál usar
+## 6. Chat, Work y Codex: cuál usar
 
 Chat, Work y Codex son tres formas de trabajar con IA dentro del mismo ecosistema. No son tres inteligencias diferentes: son maneras de presentar la ayuda y las herramientas según el tipo de trabajo que quieras hacer.
 
@@ -370,7 +347,7 @@ No tienes que elegir una sola opción para siempre. Un flujo práctico podría s
 
 La misma regla de seguridad se aplica a las tres opciones: la IA puede investigar, proponer y preparar; tú revisas, decides y apruebas. Según la documentación oficial de OpenAI, Work puede reunir contexto y herramientas autorizadas para completar tareas de varios pasos, mientras Codex ofrece vistas y herramientas orientadas al desarrollo de software. [OpenAI Docs: elegir Chat, Work o Codex](https://learn.chatgpt.com/docs/use-chatgpt)
 
-## 8. Qué es un agente
+## 7. Qué es un agente
 
 Un **agente** es una IA a la que le das un objetivo, instrucciones y herramientas para que avance por varios pasos. En vez de responder solamente una pregunta, puede revisar información, preparar un plan, editar archivos o usar herramientas autorizadas para llegar a un resultado.
 
@@ -425,7 +402,7 @@ En Work, un agente puede reunir archivos y fuentes autorizadas para preparar un 
 
 Empieza siempre con tareas pequeñas y permisos de solo lectura cuando todavía estás aprendiendo. Una buena primera tarea es «encuentra y reporta»; la siguiente puede ser «corrige solo esto que aprobé». Nunca concedas permisos amplios solo para ahorrar unos minutos, especialmente si el agente puede borrar archivos, enviar correos, publicar contenido o cambiar información de otras personas.
 
-## 9. Ejercicio: llevar una idea a una tarea controlada
+## 8. Ejercicio: llevar una idea a una tarea controlada
 
 Elige un proyecto pequeño: una página para un negocio, un minijuego, una herramienta que renombre archivos o un reporte a partir de una hoja de cálculo. La meta no es terminarlo en un día ni construir algo perfecto. El objetivo es practicar cómo convertir una idea en una tarea clara, pedir ayuda a la IA y revisar el resultado antes de usarlo.
 
